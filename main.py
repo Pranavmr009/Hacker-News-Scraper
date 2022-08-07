@@ -33,7 +33,7 @@ for url in urls:
 
         print(Fore.CYAN + "\n=============================================================================================\n")
 
-    continue_or_not = input("Would you like to continue (Y or N): ")
+    continue_or_not = input("Would you like to see more (Y or N): ")
 
     if continue_or_not.lower() == "y":
         system('clear')
